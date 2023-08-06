@@ -1,11 +1,12 @@
-See My Portfolio Click Here 👉 https://portfolio-suryamani-kumar-byj5.onrender.com/
+## See My Portfolio Click Here 👉 https://portfolio-suryamani-kumar-byj5.onrender.com/
 
-if you want to see this project live then click here 👉 
+# if you want to see this project live then click here 👉 
 
 # React + Vite
 
-To Run this project 
-1st step -> you have to clone this project
-2nd step -> Run this command 👉 npm i
-3rd step -> Run this command 👉 npm run dev
+## To Run this project 
+
+# 1st step -> you have to clone this project
+# 2nd step -> Run this command 👉 npm i
+# 3rd step -> Run this command 👉 npm run dev
 
