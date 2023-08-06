@@ -1,6 +1,6 @@
 ## See My Portfolio Click Here 👉 https://portfolio-suryamani-kumar-byj5.onrender.com/
 
-# if you want to see this project live then click here 👉 
+# if you want to see this project live then click here 👉 https://suryamani752.netlify.app/
 
 # React + Vite
 
